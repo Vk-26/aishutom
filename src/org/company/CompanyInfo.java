@@ -6,6 +6,8 @@ public class CompanyInfo {
 		System.out.println("companyName(Greens Technology)");
 		System.out.println("companyId(1111)");
 		System.out.println("companyId(OMR)");
-	}
+		System.out.println("gg");
+		System.out.println("music");
+		}
 
 }
